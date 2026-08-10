@@ -1,6 +1,6 @@
 ## Jorge Flores
 
-Network engineer working in **network automation and security compliance** — automating the hardening and auditing of Cisco infrastructure against DoD STIG standards.
+Network Administrator working in **network automation and security compliance** — automating the hardening and auditing of Cisco infrastructure against DoD STIG standards.
 
 I like the problems where a mistake takes the device offline, because those are the ones that force you to build the safety in.
 
