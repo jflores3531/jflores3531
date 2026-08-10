@@ -32,8 +32,6 @@ Validated live against a 7-device virtual lab: 2 IOS routers, 3 IOSvL2 switches,
 - **CompTIA CySA+** — DoD 8140/8570 IAT Level II
 - **CompTIA Pentest+**
 
-The security certs are why the STIG work is more than checkbox automation — reading a benchmark as an attacker's checklist is what surfaces the false passes.
-
 ---
 
 ### 📫 Reach me
