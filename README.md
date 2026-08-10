@@ -8,7 +8,7 @@ Network Administrator working in **network automation and security compliance** 
 
 Python and Ansible tooling that audits and remediates Cisco IOS, IOS-XE, and NX-OS devices against **DISA STIG benchmarks**.
 
-- **155 automated compliance checks** across 6 DISA benchmarks (IOS Switch L2S/NDM, NX-OS L2S/NDM, IOS Router NDM/RTR)
+- **177 automated compliance checks** across 6 DISA benchmarks (IOS Switch L2S/NDM, NX-OS L2S/NDM, IOS Router NDM/RTR)
 - **Multi-vendor coverage from one inventory** — Cisco IOS, IOS-XE, and NX-OS audited and hardened through a shared engine, with platform differences handled per-driver rather than forked into separate tools
 - **No credentials on disk or in argv** — runtime `getpass` prompts, gitignored secrets file, zero device data hardcoded in script logic
 - Rules requiring PKI or topology judgment report `NOT AUTOMATED` rather than guessing — a false pass on a compliance tool is worse than no answer
